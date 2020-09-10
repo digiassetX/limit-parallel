@@ -1,0 +1,21 @@
+{
+  "name": "limit-parallel",
+  "version": "1.0.0",
+  "description": "Limits the number of parallel functions being run and allows waiting for completion of all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matthew Cornelisse",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodeunit": "^0.11.3",
+    "sleep-promise": "^8.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digiassetX/limit-parallel"
+  }
+}
